@@ -1,2 +1,2 @@
 # CDE_Icewm_project
-CDE stuff for icewm
+CDE material to get a proper CDE icewm environment.
